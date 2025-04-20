@@ -166,8 +166,8 @@ Task End Time : {str(df_task_manager['task_end_time'][index]).split(" ")[1]}
 Task Status : {df_task_manager['task_status'][index]}
 """)
         elif user_input == 5:
-            task_manager_email = "taskmanager16010122@gmail.com"
-            task_manager_password = "mfwuuehgwzeqamyy"
+            task_manager_email = "gmail id"
+            task_manager_password = "password"
             s = smtplib.SMTP('smtp.gmail.com', 587)
             s.starttls()
             s.login(task_manager_email, task_manager_password)

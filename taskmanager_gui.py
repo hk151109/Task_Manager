@@ -542,8 +542,8 @@ class TaskManagerApp:
             
         try:
             # Email sending process
-            task_manager_email = "taskmanager16010122@gmail.com"
-            task_manager_password = "mfwuuehgwzeqamyy"
+            task_manager_email = "gmail id"
+            task_manager_password = "password"
             
             s = smtplib.SMTP('smtp.gmail.com', 587)
             s.starttls()

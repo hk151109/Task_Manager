@@ -12,6 +12,11 @@ Users can:
 
 This project uses `pandas` for data management, `tkinter` for the GUI interface, `tkcalendar` for date selection, `smtplib` for email functionality, and regular expressions for input validation.
 
+**System Architecture**
+![](screenshots/system_arch_1.png)
+
+![](screenshots/system_arch_2.png)
+
 **Login/Registration Page**
 
 ![Login Screen](screenshots/login_screen.png)
